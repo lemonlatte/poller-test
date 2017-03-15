@@ -1,0 +1,12 @@
+[submodule "vendor/github.com/bitmark-inc/bitmarkd"]
+	path = vendor/github.com/bitmark-inc/bitmarkd
+	url = https://github.com/bitmark-inc/bitmarkd
+[submodule "vendor/github.com/bitmark-inc/logger"]
+	path = vendor/github.com/bitmark-inc/logger
+	url = https://github.com/bitmark-inc/logger
+[submodule "vendor/github.com/cihub/seelog"]
+	path = vendor/github.com/cihub/seelog
+	url = https://github.com/cihub/seelog
+[submodule "vendor/github.com/pebbe/zmq4"]
+	path = vendor/github.com/pebbe/zmq4
+	url = https://github.com/pebbe/zmq4
